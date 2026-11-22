@@ -1,0 +1,6 @@
+output/aemet/*.RData
+output/synthetic/*.RData
+
+# Built by data/prepare_aemet.R; see data/README.md.
+data/aemet_dat.RData
+data/cache/
